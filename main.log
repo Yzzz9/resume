@@ -1,0 +1,189 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.9.19)  20 SEP 2023 07:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(/usr/share/texmf-dist/tex/latex/base/letter.cls
+Document Class: letter 2021/12/07 v1.3c Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\longindentation=\dimen140
+\indentedwidth=\dimen141
+\labelcount=\count185
+)
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count186
+\l__pdf_internal_box=\box51
+)
+No file main.aux.
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count187
+\scratchdimen=\dimen144
+\scratchbox=\box52
+\nofMPsegments=\count188
+\nofMParguments=\count189
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count190
+\MPscratchDim=\dimen145
+\MPnumerator=\count191
+\makeMPintoPDFobject=\count192
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 16.
+<images/location.png, id=1, 411.136pt x 411.136pt>
+File: images/location.png Graphic file (type png)
+<use images/location.png>
+Package pdftex.def Info: images/location.png  used on input line 18.
+(pdftex.def)             Requested size: 14.99974pt x 15.0pt.
+<images/email.png, id=3, 385.44pt x 385.44pt>
+File: images/email.png Graphic file (type png)
+<use images/email.png>
+Package pdftex.def Info: images/email.png  used on input line 19.
+(pdftex.def)             Requested size: 14.99739pt x 15.0pt.
+<images/cell-phone.png, id=4, 22.03825pt x 22.03825pt>
+File: images/cell-phone.png Graphic file (type png)
+<use images/cell-phone.png>
+Package pdftex.def Info: images/cell-phone.png  used on input line 21.
+(pdftex.def)             Requested size: 14.99991pt x 15.0pt.
+<images/github.png, id=5, 411.136pt x 411.136pt>
+File: images/github.png Graphic file (type png)
+<use images/github.png>
+Package pdftex.def Info: images/github.png  used on input line 22.
+(pdftex.def)             Requested size: 14.99974pt x 15.0pt.
+
+Overfull \hbox (0.51796pt too wide) in paragraph at lines 27--47
+[][] 
+ []
+
+
+Overfull \hbox (0.5108pt too wide) in paragraph at lines 52--64
+[][] 
+ []
+
+
+Overfull \hbox (0.5108pt too wide) in paragraph at lines 65--77
+[][] 
+ []
+
+
+Overfull \hbox (0.5108pt too wide) in paragraph at lines 82--87
+[][] 
+ []
+
+
+Overfull \hbox (0.5108pt too wide) in paragraph at lines 88--92
+[][] 
+ []
+
+
+Overfull \hbox (0.5108pt too wide) in paragraph at lines 93--98
+[][] 
+ []
+
+
+Overfull \hbox (0.5108pt too wide) in paragraph at lines 103--112
+[][] 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/location.png> <./
+images/email.png> <./images/cell-phone.png> <./images/github.png>]
+(./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 1746 strings out of 477985
+ 26840 string characters out of 5840058
+ 1863388 words of memory out of 5000000
+ 21974 multiletter control sequences out of 15000+600000
+ 514567 words of font info for 40 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 57i,10n,62p,234b,222s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb>
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mtt10.pfb>
+Output written on main.pdf (1 page, 108002 bytes).
+PDF statistics:
+ 47 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
